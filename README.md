@@ -8,3 +8,6 @@ Data Set
 Model
 - Model 2: Recognition and Disambiguation
 - Model 3: Disambiguation
+
+Visualisation of data and model
+https://brave-mcclintock-ed3cbe.netlify.app/dataset.html
